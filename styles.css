@@ -29,7 +29,7 @@ section{
     flex-direction: row;
 }
 div{
-    background:blue;
+    background:red;
     margin: auto;
     width: 100px; 
     height: 40px;
